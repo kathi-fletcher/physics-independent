@@ -2,7 +2,7 @@
 <package xmlns="http://www.idpf.org/2007/opf" version="3.0" unique-identifier="uid">
    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
       <dc:identifier id="uid">siyavula.com.physics.1.0</dc:identifier>
-      <dc:title>Siyavula Education: Everything Physics</dc:title>
+      <dc:title>Everything Physics 1</dc:title>
       <dc:creator>Siyavula Education</dc:creator>
       <dc:language>en</dc:language>
       <meta property="dcterms:modified">2012-02-27T16:38:35Z</meta>
